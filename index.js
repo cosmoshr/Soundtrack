@@ -22,5 +22,9 @@ export default [
     {
         name: 'We are Explorers',
         trigger: ['Whenever']
-    }
+    },
+    {
+        name: 'The Beautiful Abyss',
+        trigger: ['Whenever']
+
 ]
