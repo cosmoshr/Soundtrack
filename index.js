@@ -26,5 +26,21 @@ export default [
     {
         name: 'The Beautiful Abyss',
         trigger: ['Whenever']
-
+    },
+    {
+        name: 'All the Beautiful Sars'
+        trigger: ['Whenever']
+    },
+    {
+        name: ['The Stars Shine Bright']
+        trigger: ['Whenever']
+    },
+    {
+        name: ['Fly Through The Stars for Solo Cello']
+        trigger: ['Whenever']
+    },
+    {
+        name: ['Into Space']
+        trigger: ['Whenever']
+    
 ]
