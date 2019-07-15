@@ -28,19 +28,19 @@ export default [
         trigger: ['Whenever']
     },
     {
-        name: 'All the Beautiful Sars'
+        name: 'All the Beautiful Sars',
         trigger: ['Whenever']
     },
     {
-        name: ['The Stars Shine Bright']
+        name: ['The Stars Shine Bright'],
         trigger: ['Whenever']
     },
     {
-        name: ['Fly Through The Stars for Solo Cello']
+        name: ['Fly Through The Stars for Solo Cello'],
         trigger: ['Whenever']
     },
     {
-        name: ['Into Space']
+        name: ['Into Space'],
         trigger: ['Whenever']
-    
+    }
 ]
