@@ -42,5 +42,10 @@ export default [
     {
         name: ['Into Space']
         trigger: ['Whenever']
+    },
+    {
+        name: ['The World Song']
+        trigger: ['Whenever']
+    
     
 ]
