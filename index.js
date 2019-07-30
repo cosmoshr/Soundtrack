@@ -46,6 +46,22 @@ export default [
     {
         name: ['The World Song']
         trigger: ['Whenever']
-    
+    },
+    {
+        name: ['A New Horizen']
+        trigger: ['Whenever']
+    },
+    {
+        name: ['Interstellar Reaches']
+        trigger: ['Whenever']
+    },
+    {
+        name: ['Fighting For Survival']
+        trigger: ['Attack']
+    {,
+    {
+        name: ['Habitation Complete (SFX)']
+        trigger: ['Completion of Habitation']
+
     
 ]
